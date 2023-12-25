@@ -1,4 +1,5 @@
-(https://github.com/dineshlokare/dineshlokare/assets/100985006/d44e4546-e105-4bd2-a090-9c1d44d94030)
+
+![Project GIF](![image](https://github.com/dineshlokare/dineshlokare/assets/100985006/ae66fa9d-e9c9-4889-930c-4481777f9a1a)
 
 # [Mr. Dinesh Lokare]
 *Data Science Enthusiast | Aspiring Data Analyst | Machine Learning Enthusiast*
