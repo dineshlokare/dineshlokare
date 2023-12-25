@@ -1,6 +1,4 @@
-# Your Project Name
-
-![Project GIF](![image](https://github.com/dineshlokare/dineshlokare/assets/100985006/d44e4546-e105-4bd2-a090-9c1d44d94030)
+(https://github.com/dineshlokare/dineshlokare/assets/100985006/d44e4546-e105-4bd2-a090-9c1d44d94030)
 
 # [Mr. Dinesh Lokare]
 *Data Science Enthusiast | Aspiring Data Analyst | Machine Learning Enthusiast*
