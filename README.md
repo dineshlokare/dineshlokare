@@ -1,5 +1,5 @@
 # [Mr. Dinesh Lokare]
-*Data Science Enthusiast | Aspiring Data Analyst | Machine Learning Enthusiast*
+*Aspiring Data Scientist | Machine Learning Enthusiast | Analytics Explorer*
 
 Welcome to my GitHub profile! 👋 I am passionate about leveraging data to drive informed decision-making and am on a journey to become a skilled data professional.
 
